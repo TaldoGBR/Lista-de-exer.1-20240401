@@ -1,0 +1,7 @@
+F:\visual studio\Lista-de-exer.1-20240401-main\Lista1ex1\Lista1ex10\bin\Debug\Lista1ex10.exe.config
+F:\visual studio\Lista-de-exer.1-20240401-main\Lista1ex1\Lista1ex10\bin\Debug\Lista1ex10.exe
+F:\visual studio\Lista-de-exer.1-20240401-main\Lista1ex1\Lista1ex10\bin\Debug\Lista1ex10.pdb
+F:\visual studio\Lista-de-exer.1-20240401-main\Lista1ex1\Lista1ex10\obj\Debug\Lista1ex.10.csproj.AssemblyReference.cache
+F:\visual studio\Lista-de-exer.1-20240401-main\Lista1ex1\Lista1ex10\obj\Debug\Lista1ex.10.csproj.CoreCompileInputs.cache
+F:\visual studio\Lista-de-exer.1-20240401-main\Lista1ex1\Lista1ex10\obj\Debug\Lista1ex10.exe
+F:\visual studio\Lista-de-exer.1-20240401-main\Lista1ex1\Lista1ex10\obj\Debug\Lista1ex10.pdb

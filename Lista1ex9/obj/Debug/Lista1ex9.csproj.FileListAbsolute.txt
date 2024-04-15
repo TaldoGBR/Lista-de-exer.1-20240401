@@ -1,0 +1,14 @@
+F:\visual studio\Lista-de-exer.1-20240401-main\Lista1ex1\Lista1ex9\bin\Debug\Lista1ex9.exe.config
+F:\visual studio\Lista-de-exer.1-20240401-main\Lista1ex1\Lista1ex9\bin\Debug\Lista1ex9.exe
+F:\visual studio\Lista-de-exer.1-20240401-main\Lista1ex1\Lista1ex9\bin\Debug\Lista1ex9.pdb
+F:\visual studio\Lista-de-exer.1-20240401-main\Lista1ex1\Lista1ex9\obj\Debug\Lista1ex9.csproj.AssemblyReference.cache
+F:\visual studio\Lista-de-exer.1-20240401-main\Lista1ex1\Lista1ex9\obj\Debug\Lista1ex9.csproj.CoreCompileInputs.cache
+F:\visual studio\Lista-de-exer.1-20240401-main\Lista1ex1\Lista1ex9\obj\Debug\Lista1ex9.exe
+F:\visual studio\Lista-de-exer.1-20240401-main\Lista1ex1\Lista1ex9\obj\Debug\Lista1ex9.pdb
+C:\Users\Chizuru\Downloads\Lista1ex1\Lista1ex9\bin\Debug\Lista1ex9.exe.config
+C:\Users\Chizuru\Downloads\Lista1ex1\Lista1ex9\bin\Debug\Lista1ex9.exe
+C:\Users\Chizuru\Downloads\Lista1ex1\Lista1ex9\bin\Debug\Lista1ex9.pdb
+C:\Users\Chizuru\Downloads\Lista1ex1\Lista1ex9\obj\Debug\Lista1ex9.csproj.AssemblyReference.cache
+C:\Users\Chizuru\Downloads\Lista1ex1\Lista1ex9\obj\Debug\Lista1ex9.csproj.CoreCompileInputs.cache
+C:\Users\Chizuru\Downloads\Lista1ex1\Lista1ex9\obj\Debug\Lista1ex9.exe
+C:\Users\Chizuru\Downloads\Lista1ex1\Lista1ex9\obj\Debug\Lista1ex9.pdb

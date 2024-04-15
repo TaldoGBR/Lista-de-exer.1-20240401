@@ -1,0 +1,7 @@
+F:\Lista1.1ex1\Lista1ex1\Lista1exe12.1\bin\Debug\Lista1exe12.1.exe.config
+F:\Lista1.1ex1\Lista1ex1\Lista1exe12.1\bin\Debug\Lista1exe12.1.exe
+F:\Lista1.1ex1\Lista1ex1\Lista1exe12.1\bin\Debug\Lista1exe12.1.pdb
+F:\Lista1.1ex1\Lista1ex1\Lista1exe12.1\obj\Debug\Lista1exe12.1.csproj.AssemblyReference.cache
+F:\Lista1.1ex1\Lista1ex1\Lista1exe12.1\obj\Debug\Lista1exe12.1.csproj.CoreCompileInputs.cache
+F:\Lista1.1ex1\Lista1ex1\Lista1exe12.1\obj\Debug\Lista1exe12.1.exe
+F:\Lista1.1ex1\Lista1ex1\Lista1exe12.1\obj\Debug\Lista1exe12.1.pdb
